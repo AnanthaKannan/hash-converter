@@ -1,12 +1,12 @@
 {
-  "name": "hash-npm",
+  "name": "hash-converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["SHA-256", "SHA-1", "MD-5", "MD-1", "hash", "converter"],
+  "author": "Anantha Kannan",
   "license": "ISC"
 }

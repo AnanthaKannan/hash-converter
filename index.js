@@ -1,7 +1,7 @@
-const { SHA256 } = require('./SHA256');
-const { SHA1} = require('./SHA1');
-const { MD5 } = require('./MD5');
-const { MD2 } = require('./MD2')
+const { SHA256 } = require('./sha256');
+const { SHA1} = require('./sha1');
+const { MD5 } = require('./md5');
+const { MD2 } = require('./md2')
 
 module.exports = {
     SHA256, SHA1, MD5, MD2
