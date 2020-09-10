@@ -17,7 +17,3 @@ console.log(md5); // 2095312189753de6ad47dfe20cbe97ec
 const md2 = hash.MD2('');
 console.log(MD2); // d36f37b1678c4b9e82380bf2c95d3de3
 ```
-
-
-http://onlinemd5.com/
-https://www.browserling.com/tools/all-hashes# hash-converter
