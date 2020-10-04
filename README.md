@@ -5,7 +5,7 @@ Generate hashes from string in node and the browser. you can convert from string
 # Example usage
 
 ```js
-const hash = require('hash');
+const hash = require('hash-converter');
 
 const sha256 = hash.SHA256('hello-world');
 console.log(sha256);  //afa27b44d43b02a9fea41d13cedc2e4016cfcf87c5dbf990e593669aa8ce286d
